@@ -1,4 +1,4 @@
 nama : haitsam
 kelas : xi rpl 2
 alamat : sekeawi 
-cita citaku : software enginer
+tujuan masuk rpl : agar menjadi fullstack dev handal
